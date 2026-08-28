@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Normal",
+    "color": "#D9D9D9",
+    "enabled": true,
+    "track": false,
+    "ping": false,
+    "send_message": false,
+    "ping_everyone": false
+  },
+  {
+    "name": "Windy",
+    "color": "#A3D1FF",
+    "enabled": true,
+    "track": true,
+    "ping": false,
+    "send_message": true,
+    "ping_everyone": false
+  },
+  {
+    "name": "Snowy",
+    "color": "#E6F4FF",
+    "enabled": true,
+    "track": true,
+    "ping": false,
+    "send_message": true,
+    "ping_everyone": false
+  },
+  {
+    "name": "Rainy",
+    "color": "#CDE6FF",
+    "enabled": true,
+    "track": true,
+    "ping": false,
+    "send_message": true,
+    "ping_everyone": false
+  },
+  {
+    "name": "Sandstorm",
+    "color": "#FFD8A8",
+    "enabled": true,
+    "track": true,
+    "ping": false,
+    "send_message": true,
+    "ping_everyone": false
+  },
+  {
+    "name": "Hell",
+    "color": "#FFBDBD",
+    "enabled": true,
+    "track": true,
+    "ping": false,
+    "send_message": true,
+    "ping_everyone": false
+  },
+  {
+    "name": "Starfall",
+    "color": "#FFF2A8",
+    "enabled": true,
+    "track": true,
+    "ping": false,
+    "send_message": true,
+    "ping_everyone": false
+  },
+  {
+    "name": "Heaven",
+    "color": "#E8F8D8",
+    "enabled": true,
+    "track": true,
+    "ping": false,
+    "send_message": true,
+    "ping_everyone": false
+  },
+  {
+    "name": "Corruption",
+    "color": "#7C3AED",
+    "enabled": true,
+    "track": true,
+    "ping": false,
+    "send_message": true,
+    "ping_everyone": false
+  },
+  {
+    "name": "Null",
+    "color": "#C9C9C9",
+    "enabled": true,
+    "track": true,
+    "ping": false,
+    "send_message": true,
+    "ping_everyone": false
+  },
+  {
+    "name": "Glitched",
+    "color": "#176B3A",
+    "enabled": true,
+    "track": true,
+    "ping": true,
+    "send_message": true,
+    "ping_everyone": true
+  },
+  {
+    "name": "Dreamspace",
+    "color": "#DDEBFF",
+    "enabled": true,
+    "track": true,
+    "ping": true,
+    "send_message": true,
+    "ping_everyone": true
+  },
+  {
+    "name": "Cyberspace",
+    "color": "#D8FFF0",
+    "enabled": true,
+    "track": true,
+    "ping": true,
+    "send_message": true,
+    "ping_everyone": true
+  },
+  {
+    "name": "Singularity",
+    "color": "#BFBFBF",
+    "enabled": true,
+    "track": true,
+    "ping": false,
+    "send_message": true,
+    "ping_everyone": false
+  }
+]

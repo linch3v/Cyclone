@@ -1,0 +1,13 @@
+{
+  "macro_name": "Cyclone",
+  "version": "1.0.0",
+  "instances": [],
+  "webhook_url": "",
+  "trim_interval": 60,
+  "theme": "Oppression",
+  "ram_trim_enabled": true,
+  "anti_afk_enabled": true,
+  "anti_afk_settings": {},
+  "anti_afk_mode": "multi",
+  "anti_afk_interval": 540
+}
