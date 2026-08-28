@@ -34,3 +34,5 @@ Instances: Each instance entry owns its Discord webhook and lets you select mult
 Biomes: Independently enable tracking, Discord messages, and @everyone mentions for every biome in biomes.json (same location rules as above).
 Anti-AFK: Enable the toggle, choose Single instance or Multiple instances, and enter a custom interval in seconds. When tracking starts, Cyclone finds the matching Roblox process/window, brings it forward, and sends Space directly to it.
 Settings: Set the macro name, version, fallback webhook, Windows RAM-trim interval, and whether periodic RAM trimming is enabled. You can also run Trim memory now manually. Settings and instances are persisted to config.json (same location rules as above).
+
+The READMD was written by AI.
