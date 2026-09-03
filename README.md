@@ -5,19 +5,28 @@ Quick start
 Create and activate a venv (Windows PowerShell):
 
 python -m venv .venv
+
 .\.venv\Scripts\Activate.ps1
+
 pip install -r requirements.txt
+
 Run the app:
 powershell
+
 python -m sol_rng_tracker.main
+
 Building the .exe
 
 Cyclone ships as a single-file Windows executable built with PyInstaller. To build it yourself (Windows PowerShell):
 
 python -m venv .venv
+
 .\.venv\Scripts\Activate.ps1
+
 pip install -r requirements.txt
+
 pip install pyinstaller
+
 pyinstaller Cyclone.spec
 
 The finished executable will be at dist\Cyclone.exe. It's fully self-contained — once built, you can copy just that one file anywhere (a different folder, a different PC) and run it without Python, pip, or any dependencies installed.
